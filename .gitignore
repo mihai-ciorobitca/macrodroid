@@ -1,0 +1,10 @@
+build/
+*.apk
+*.idsig
+*.class
+*.dex
+*.jks
+*.keystore
+*.p12
+local.properties
+.env
